@@ -1,0 +1,5 @@
+P001,John Doe,30,Male,1234567890,Hypertension
+P002,Jane Smith,25,Female,0987654321,Asthma
+P003,Bob Johnson,40,Male,5551234567,Diabetes
+P004,Alice Brown,35,Female,8765432109,Thyroid
+P005,Michael Davis,28,Male,3456789012,Cardiovascular
