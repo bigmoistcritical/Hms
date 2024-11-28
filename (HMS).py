@@ -1,6 +1,8 @@
-pip install streamlit
+python3 -m pip install streamlit
+
 import streamlit as st
 import os
+
 
 # Initialize file paths
 patients_file = "patients.txt"
