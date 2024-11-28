@@ -1,4 +1,4 @@
-python3 -m pip install streamlit
+
 
 import streamlit as st
 import os
