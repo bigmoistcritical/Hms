@@ -1,6 +1,6 @@
 import os
+import streamlist as st
 
-# Initialize file paths
 patients_file = "patients.txt"
 doctors_file = "doctors.txt"
 appointments_file = "appointments.txt"
